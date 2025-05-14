@@ -70,4 +70,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Support
-For support or questions, please contact the UMass Boston Technology Innovation team. 
+For support or questions, please contact the UMass Boston Technology Innovation team.
+
+This project aims to streamline the registration process for UMass Boston Recreational Programs. 
